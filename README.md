@@ -28,4 +28,4 @@ Correr Servidor de prueba
 $ npm run dev
 ```
 
-[app preview](./src/assets/preview.png)
+![app preview](./src/assets/preview.png)
