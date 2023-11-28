@@ -7,6 +7,7 @@ Esta app permite buscar noticias en EE.UU por selección de categoria. También 
 - React/ Javascript
 - Material UI
 - Hooks
+- API https://newsapi.org/
 
 ## LEEME
 
@@ -28,4 +29,4 @@ Correr Servidor de prueba
 $ npm run dev
 ```
 
-![app preview](./src/assets/preview.png)
+![app preview](./public/preview.png)
